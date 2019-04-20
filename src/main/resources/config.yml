@@ -34,7 +34,7 @@ mysql:
 
 ###################################################
 # Debug mode                                      #
-debug: false
+debug: true
 
 ###################################################
 # Delete invalid guilds/players/regions etc.      #
@@ -175,7 +175,7 @@ chat:
 # or just tag+name                                #
 # false requires adding {TAG} to chat format      #
 # in Essentials' config!                          #
- displaynametags: false
+ displaynametags: true
 
 # advanced chat                                   #
 # + colored tags                                  #
